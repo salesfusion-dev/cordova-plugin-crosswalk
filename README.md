@@ -1,4 +1,4 @@
-# cordova-plugin-crosswalk-webview-v3
+# @salesfusion/cordova-plugin-crosswalk
 
 This is a fork of original [cordova-plugin-crosswalk-webview](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) library, which aims to provide compatibility with latest cordova versions.
 
@@ -12,7 +12,7 @@ For detailed information about crosswalk, please visit the homepage of original 
 * Add this plugin
 
 ```
-$ cordova plugin add cordova-plugin-crosswalk-webview-v3
+$ cordova plugin add @salesfusion/cordova-plugin-crosswalk
 ```
 
 * Build
